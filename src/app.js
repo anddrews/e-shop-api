@@ -16,5 +16,5 @@ function allowCrossDomain(req, res, next) {
 app.use(allowCrossDomain);
 app.use(cookieParser(), express.json({ extended: true }));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use('/assets', express.static('./assets'));
 app.use('/', router);
