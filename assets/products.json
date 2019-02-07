@@ -1,0 +1,24 @@
+[
+  {
+    "category": "first",
+    "imgPath": "path to img",
+    "amount": 7234,
+    "name": "second name",
+    "description": "Curabitur vestibulum aliquam leo. Ut non enim eleifend felis pretium feugiat. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+    "id": 1
+  },{
+  "category": "first",
+  "imgPath": "path to img",
+  "amount": 7234,
+  "name": "second name",
+  "description": "Curabitur vestibulum aliquam leo. Ut non enim eleifend felis pretium feugiat. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+  "id": 2
+},{
+  "category": "first",
+  "imgPath": "path to img",
+  "amount": 7234,
+  "name": "second name",
+  "description": "Curabitur vestibulum aliquam leo. Ut non enim eleifend felis pretium feugiat. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+  "id": 3
+}
+]
